@@ -1,5 +1,5 @@
-![OIP](https://github.com/iwx09/Project-3-TuwaiqAcademy-DL-Keras/assets/76057369/fdd3a392-34e6-4bc8-b762-97928ec450c9)
-
+![OIP](https://github.com/iwx09/Project-3-TuwaiqAcademy-DL-Keras/assets/76057369/ad4266a8-fe21-40db-914f-944f2b95264f)
+Deep Learning Using the Keras Library.
 
 ## Introduction
 In this project, we dive into the world of deep learning by utilizing the Keras library to classify fashion articles in the Fashion MNIST dataset. Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It is user-friendly, modular, and extensible, which makes it a go-to library for both beginners and experienced practitioners in the field of deep learning.
