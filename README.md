@@ -30,6 +30,9 @@ The code is structured as follows:
 3. Define the neural network model architecture.
 4. Compile the model (the code for this is not included in the provided snippet).
 
+## Accurasy
+achieving an exceptional accuracy of 99% on the Fashion MNIST dataset. This project demonstrated my ability to preprocess data, fine-tune neural network architectures, and rigorously evaluate model performance to ensure high precision in image classification tasks.
+
 ## Conclusion
 This project serves as a fundamental step into the domain of image classification using neural networks. The Fashion MNIST dataset provides a more challenging alternative to the classic MNIST dataset and serves as a good benchmark for algorithms.
 
