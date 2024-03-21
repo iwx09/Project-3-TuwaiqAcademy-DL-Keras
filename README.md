@@ -35,4 +35,4 @@ The code is structured as follows:
 ## Conclusion
 This project serves as a fundamental step into the domain of image classification using neural networks. The Fashion MNIST dataset provides a more challenging alternative to the classic MNIST dataset and serves as a good benchmark for algorithms.
 
-Please find the complete code on my GitHub repository at [GitHub Link].
+Please find the complete code on my GitHub repository at [Project-DL-Keras.ipynb].
