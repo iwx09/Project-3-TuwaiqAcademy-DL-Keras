@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 ## Introduction
 In this project, we dive into the world of deep learning by utilizing the Keras library to classify fashion articles in the Fashion MNIST dataset. Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It is user-friendly, modular, and extensible, which makes it a go-to library for both beginners and experienced practitioners in the field of deep learning.
 
